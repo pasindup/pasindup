@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a [your profession/role] passionate about [your interests]. I love building [what you like to build] and contributing to open-source projects.
+I'm a tech nerd passionate about [your interests]. I love building [what you like to build] and contributing to open-source projects.
 
 - 🔭 I'm currently working on **[your current project]**
 - 🌱 I'm currently learning **[what you're learning]**
