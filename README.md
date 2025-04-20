@@ -52,7 +52,7 @@ I'm a tech nerd passionate about back-end stuff. I love building api's and contr
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pasindup&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
