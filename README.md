@@ -46,9 +46,9 @@ I'm a tech nerd passionate about back-end stuff. I love building api's and contr
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pasindup&show_icons=true&theme=radical)](https://github.com/pasindup)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindup&layout=compact&theme=radical)](https://github.com/pasindup)
 
 ## 🔥 Streak Stats
 
@@ -56,7 +56,7 @@ I'm a tech nerd passionate about back-end stuff. I love building api's and contr
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pasindup&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Let's Connect
 
@@ -73,7 +73,7 @@ I'm a tech nerd passionate about back-end stuff. I love building api's and contr
 
 ## 👀 Visitors Count
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/pasindup/count.svg)
 
 ## 🎶 Now Playing
 
