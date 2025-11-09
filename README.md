@@ -54,28 +54,3 @@ I'm a tech nerd passionate about back-end stuff. I love building api's and contr
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pasindup&theme=tokyonight)](https://git.io/streak-stats)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pasindup&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-<!-- BLOG-POST-LIST:END -->
-
-## 👀 Visitors Count
-
-![Visitor Count](https://profile-counter.glitch.me/pasindup/count.svg)
-
-## 🎶 Now Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
-
