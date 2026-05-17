@@ -8,7 +8,6 @@ I'm a tech nerd passionate about back-end stuff. I love building api's and contr
 
 - 🔭 I'm currently working on **Creativesoftware pvt LTD**
 - 🌱 I'm currently learning **AI development and design patterns**
-- 👯 I'm looking to collaborate on **[type of projects]**
 - 💬 Ask me about **Anything if you need , related to code development**
 - 📫 How to reach me: **pepasindu@gmail.com**
 - 😄 Pronouns: **Mandalorian**
